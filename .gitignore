@@ -1,9 +1,10 @@
 *.tif
 *.tiff
 *.img
+*.xml
 *.hdr
 *.zip
 .ipynb_checkpoints/
 __pycache__/
-env/
 .venv/
+env/
