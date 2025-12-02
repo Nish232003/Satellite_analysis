@@ -38,12 +38,7 @@ satellite_analysis/
 │   ├── CartoDEM_Analysis.ipynb
 │   └── NDVI_Analysis.ipynb
 │
-├── scripts/
-│   ├── cartodem_processing.py
-│   └── ndvi_processing.py
-│
-├── results/
-│   └── (Generated maps saved here)
+│ 
 │
 ├── docs/
 │   ├── policy.txt
